@@ -3,3 +3,4 @@
 
 ## :sparkles: News
 - `watch_gpu.py`：查看用户使用GPU的情况（需要nvidia-smi的支持）
+- `email_sender.py`：发送电子邮件
